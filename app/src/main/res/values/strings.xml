@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Unrealistic Whaling Fisherman Simulator</string>
+    <string name="button_label">Click</string>
+    <string name="text">Not clicked</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
